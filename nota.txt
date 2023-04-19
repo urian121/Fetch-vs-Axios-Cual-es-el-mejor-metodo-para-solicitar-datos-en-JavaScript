@@ -1,0 +1,12 @@
+Ejemplos de diferencia con Fecht y axios usando en ambos el metodo get
+
+"¿Fetch o Axios? Descubre cuál es la mejor opción para tus proyectos"
+    "Fetch vs Axios: ¿Cuál es la mejor manera de hacer solicitudes HTTP en JavaScript?"
+    "Fetch y Axios: ¿Cuáles son las principales diferencias y cuál deberías elegir?"
+    "Diferencias entre Fetch y Axios: Cómo elegir la mejor opción para tu proyecto"
+    "¿Cuál es la mejor manera de hacer solicitudes HTTP en 2023? Fetch o Axios"
+    "Fetch o Axios: Descubre cuál es la mejor opción para hacer solicitudes en tiempo real"
+    "Fetch vs Axios: ¿Cuál es más fácil de usar y más poderoso?"
+    "Fetch vs Axios: Ventajas y desventajas de ambos métodos para solicitudes HTTP"
+    "Fetch y Axios: ¿Qué método es más rápido y escalable para solicitudes HTTP?"
+    "Fetch o Axios: Comparación en profundidad de las características y beneficios de ambos métodos"
